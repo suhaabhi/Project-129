@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+}
+    
+#h1
+{
+    background-color:rgba(255, 0, 93, 0.732);
+    font-size: 22px;
+    width: 100%;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.note2
+{
+    font-size: 15px;
+    color: black;
+}
+
+#song_name
+{
+    width: 10%;
+    background-color:rgba(255, 0, 93, 0.732) ;
+}
